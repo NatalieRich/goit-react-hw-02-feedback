@@ -1,0 +1,15 @@
+.section {
+  width: 600px;
+  margin: auto;
+  color: rgb(95, 32, 32);
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  color: rgb(110, 39, 60);
+  margin: 10px;
+  background-color: rgb(255, 250, 221);
+  border: solid rgb(252, 244, 199);
+}
